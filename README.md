@@ -1,6 +1,6 @@
 ## VisonaryAI
 
-##Integrantes
+## Integrantes
 
 Enzo Ross Gallone- RM551754 
 Gabriel de Andrade Baltazar- RM550870 
