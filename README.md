@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-Enzo Ross Gallone- RM551754 
-Gabriel de Andrade Baltazar- RM550870 
-Leonardo Cordeiro Scotti- RM550769 
-Pedro Gomes Fernandes- RM551480 
-Vinicius de Araujo Camargo- RM99494  
+Enzo Ross Gallone- fez a documentação.
+Gabriel de Andrade Baltazar- implementou e integrou o banco de dados.
+Leonardo Cordeiro Scotti- criou e implementou as classes, fez os diagramas.
+Pedro Gomes Fernandes- fez o video explicativo.
+Vinicius de Araujo Camargo- ajudou na documentação.
 
 ## Link para o vídeo explicativo
 https://youtu.be/yR397qCfDAc
