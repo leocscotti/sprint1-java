@@ -1,5 +1,8 @@
 ## VisonaryAI
 
+## Link do repositório
+https://github.com/leocscotti/sprint1-java
+
 ## Integrantes
 
 Enzo Ross Gallone- fez a documentação.
