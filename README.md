@@ -8,5 +8,20 @@ Leonardo Cordeiro Scotti- criou e implementou as classes, fez os diagramas.
 Pedro Gomes Fernandes- fez o video explicativo.
 Vinicius de Araujo Camargo- ajudou na documentação.
 
+## Como rodar a aplicação
+ao importar o projeto, dê run na classe VisionaryaiApplication.
+para testar os endpoins da api, segue os link para requisição:
+GET insights: http://localhost:8080/rm0769/ia/insights/1
+POST prever-tendencias: http://localhost:8080/rm0769/ia/prever-tendencias e escrever no body
+{
+    "id": 2,
+    "tipoDaIa": "Deep Learning",
+    "descricaoDaIa": "Market Predictor",
+    "acuraciaDaIa": "20%",
+    "statusDaIa": "A"
+}
+
+GET fonte-de-dados: http://localhost:8080/rm0769/ia/fonte-de-dados/"dados" 
+
 ## Link para o vídeo explicativo
 https://youtu.be/yR397qCfDAc
