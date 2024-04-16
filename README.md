@@ -7,3 +7,6 @@ Gabriel de Andrade Baltazar- RM550870
 Leonardo Cordeiro Scotti- RM550769 
 Pedro Gomes Fernandes- RM551480 
 Vinicius de Araujo Camargo- RM99494  
+
+## Link para o vídeo explicativo
+https://youtu.be/yR397qCfDAc
