@@ -8,6 +8,13 @@ Leonardo Cordeiro Scotti- criou e implementou as classes, fez os diagramas.
 Pedro Gomes Fernandes- fez o video explicativo.
 Vinicius de Araujo Camargo- ajudou na documentação.
 
+## Imagem do diagrama de classes de entidades
+![image](https://github.com/leocscotti/sprint1-java/assets/126523762/061f04dd-7e43-4aa0-940d-50f7d2433c7b)
+
+## Imagem do diagrama de entidades relacional
+![image](https://github.com/leocscotti/sprint1-java/assets/126523762/b38a5d2d-765f-48ff-b6d4-eb15217c4d02)
+
+
 ## Como rodar a aplicação
 ao importar o projeto, dê run na classe VisionaryaiApplication.
 para testar os endpoins da api, segue os link para requisição:
